@@ -1,0 +1,11 @@
+{
+  "name": "discordbot-tools",
+  "version": "0.0.1",
+  "description": "Tools for discord.js for making easy to use",
+  "main": "index.js",
+  "author": "Anish Shobith",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.4.1"
+  }
+}
