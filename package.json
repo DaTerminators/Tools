@@ -6,6 +6,6 @@
   "author": "Anish Shobith",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.4.1"
+    "node-fetch": "^2.6.1"
   }
 }
